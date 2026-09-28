@@ -27,4 +27,6 @@ mti_rag.db
 .vscode/
 .DS_Store
 Thumbs.db
+*.zip
+
 
