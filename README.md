@@ -1,4 +1,4 @@
-# 🌤️ MTI Meteorological Knowledge Assistant (RAG Pipeline System - Version 2)
+# 🌤️ MTI Meteorological Knowledge Assistant (RAG Pipeline System - Final Version)
 
 An intelligent, grounded Retrieval-Augmented Generation (RAG) assistant built for the **Meteorological Training Institute (MTI)** - **India Meteorological Department (IMD)**.
 
